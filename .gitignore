@@ -16,4 +16,5 @@ __pycache__/
 check_rst.py
 .vscode/
 *.png
-!interface.png
+!wordcloud.png
+!snake_black.png
